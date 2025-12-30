@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi, there! I’m **Pranjal Tiwari**
 
-<!--
-**PranjalTiwari-20/PranjalTiwari-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I’m pursuing my **graduate degree in BCA (Artificial Intelligence & Data Analytics)**, where I’m building my foundation in **SQL, Python, and business-focused data analysis**.  
+As a **Smart India Hackathon 2024 Finalist**, I represented my team at the national stage, delivering a problem-driven solution backed by strong execution and presentation.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover patterns, clean datasets, and build dashboards that communicate insights clearly.  
+Along with technical learning, I bring strong **communication and presentation skills**, helping me explain complex ideas in a simple and impactful way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Achievements
+- **Smart India Hackathon 2024 Finalist** — National-level project implementation and pitching
+- Recognized for **teamwork, structured thinking, and real-world problem solving**
+
+---
+
+### 🔭 Interests
+- **Data Analysis & EDA** — Discovering insights from real datasets
+- **SQL Analytics** — Data cleaning, queries, and logic building
+- **Dashboard Storytelling** — Power BI, Excel, and reports
+- **AI & Machine Learning** — Growing toward AI-driven analytics roles
+
+---
+
+### 🛠 Skills & Tools (Beginner → Growing)
+
+**Programming:** Python | Java | NumPy | Pandas | Matplotlib  
+**Data Analysis:** Data Cleaning | Exploratory Data Analysis (EDA) | Data Insights  
+**Visualization & BI:** Power BI | Excel | Matplotlib Charts  
+**Development & Design:**  Prototyping | UI Design  
+**Libraries & Databases:** Pandas | NumPy | Matplotlib | PostgreSQL  
+**Other Strengths:** Communication | Presentations | Report Writing | Problem Solving
+
+
+---
+
+💡 I focus on writing **clean, simple, and business-relevant analysis**, and explaining insights with clarity.
