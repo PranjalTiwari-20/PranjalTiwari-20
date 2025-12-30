@@ -25,7 +25,7 @@ Along with technical learning, I bring strong **communication and presentation s
 
 ### 🛠 Skills & Tools (Beginner → Growing)
 
-**Programming:** Python | Java | NumPy | Pandas | Matplotlib  
+**Programming:** Python | NumPy | Pandas | Matplotlib  
 **Data Analysis:** Data Cleaning | Exploratory Data Analysis (EDA) | Data Insights  
 **Visualization & BI:** Power BI | Excel | Matplotlib Charts  
 **Development & Design:**  Prototyping | UI Design  
