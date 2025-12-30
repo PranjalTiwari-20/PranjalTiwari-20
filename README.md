@@ -1,7 +1,7 @@
 ## 👋 Hi, there! I’m **Pranjal Tiwari**
 
 ### 🚀 About Me
-I’m pursuing my **graduate degree in BCA (Artificial Intelligence & Data Analytics)**, where I’m building my foundation in **SQL, Python, and business-focused data analysis**.  
+I’m pursuing my **graduate degree in BCA (Artificial Intelligence & Data Analytics)**, where I’m building my foundation in **SQL, Python, Power BI, Excel and business-focused data analysis**.  
 As a **Smart India Hackathon 2024 Finalist**, I represented my team at the national stage, delivering a problem-driven solution backed by strong execution and presentation.
 
 I enjoy working with data to uncover patterns, clean datasets, and build dashboards that communicate insights clearly.  
