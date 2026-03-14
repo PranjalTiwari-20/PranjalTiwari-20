@@ -25,12 +25,19 @@ Along with technical learning, I bring strong **communication and presentation s
 
 ### 🛠 Skills & Tools (Beginner → Growing)
 
-**Programming:** Python | NumPy | Pandas | Matplotlib  
-**Data Analysis:** Data Cleaning | Exploratory Data Analysis (EDA) | Data Insights  
-**Visualization & BI:** Power BI | Excel | Matplotlib Charts  
-**Development & Design:**  Prototyping | UI Design  
-**Libraries & Databases:** Pandas | NumPy | Matplotlib | PostgreSQL  
-**Other Strengths:** Communication | Presentations | Report Writing | Problem Solving
+**Programming**: Python | NumPy | Pandas | Matplotlib | Seaborn
+
+**Data Analysis**: Data Cleaning | Exploratory Data Analysis (EDA) | Data Insights
+
+**Visualization & BI**: Power BI | Excel | Matplotlib | Seaborn
+
+**Tools & Platforms**: Jira | AWS 
+
+**Libraries & Databases**: Pandas | NumPy | Matplotlib | Seaborn | PostgreSQL
+
+**Development & Design**: Prototyping | UI Design
+
+**Other Strengths**: Communication | Presentations | Report Writing | Problem Solving
 
 
 ---
