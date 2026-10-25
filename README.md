@@ -150,7 +150,7 @@ I'm interested in collaborating on projects involving:
 - 🛡️ Open-Source Cybersecurity Tools
 
 📧 **Email:** pranjaltiwari20704@gmail.com  
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/pranjal-tiwari-934101308/)
 
 ---
 
